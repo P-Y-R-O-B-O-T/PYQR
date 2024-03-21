@@ -26,6 +26,12 @@
 
 * `./install.sh`
 
+# USAGE
+* Run the following command in terminal
+```
+pyqr
+```
+
 # CONFIGURATION
 * A base configuration has already been provided
 
