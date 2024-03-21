@@ -1,6 +1,6 @@
 # PYQR
 
-![](ZZZ/ZZZ/jpg)
+![](ZZZ/ZZZ.jpg)
 
 * Want to look cool ?
 
