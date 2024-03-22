@@ -1,4 +1,7 @@
-sudo apt install python3-segno
+sudo apt install pip
+
+pip install segno==1.0.2
+
 sudo apt install lolcat
 
 pip install rich
